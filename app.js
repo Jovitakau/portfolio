@@ -35,7 +35,7 @@ router.get('/about', function(req, res) {
 });
 
 router.get('/projects/:proj', function(req, res) {
-  res.render('projects/'+req.params.proj);
+  res.render('projects/'+req.params.proj+'.html');
 });
 
 app.use(bodyParser.json());
