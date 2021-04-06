@@ -238,6 +238,7 @@ a {
     padding-bottom: 80%;
     height: 0;
     overflow: hidden;
+   
     }
     .video-container-feel iframe,.video-container-feel object,.video-container-feel embed {
     width: 100%;
@@ -274,6 +275,20 @@ a {
             top: 0;
             left: 0;
             }
+
+            .video-container-riccio{
+                position: relative;
+                padding-bottom: 66.9%;
+                height: 0;
+                overflow: hidden;
+                }
+                .video-container-riccio iframe,.video-container-riccio object,.video-container-riccio embed {
+                width: 100%;
+                height: 100%;
+                position: absolute;
+                top: 0;
+                left: 0;
+                }
     
 
 /* <!-- section divider brief/process/product--> */
