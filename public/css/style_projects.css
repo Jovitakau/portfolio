@@ -230,7 +230,7 @@ a {
     transition: transform 1.2s ease-in-out !important;
 }
 
-.banana .img-fluid {
+.feel_presentation_3 .img-fluid {
     height: 50%;
 }
 .video-container-feel {
@@ -334,8 +334,10 @@ a {
 }
 
 .highlighted{
-    color: rgb(33, 33, 33);
+    color: rgb(33, 33, 33) !important ;
 }
+
+
 .border_on_sides{
 border: solid;
 border-top:none;
